@@ -1,2 +1,2 @@
-# Hospital-System-Management
-Hospital System Management using DBMS
+# Hospital-Management-System
+Hospital Management System using DBMS
